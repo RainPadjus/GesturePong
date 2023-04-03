@@ -2,8 +2,7 @@
 
 Welcome to Gesture Pong, a fun and interactive game where you control a paddle using your hand gestures! Powered by a deep learning model trained using the FastAI library, this game takes your everyday Pong experience to a whole new level.
 
-![alt text](https://raw.githubusercontent.com/RainPadjus/GesturePong/main/scr.png)
-
+![alt text](https://raw.githubusercontent.com/RainPadjus/GesturePong/main/ezgif-5-6bd0522a7d.gif)
 
 ## Features
 - Play Pong using hand gestures
